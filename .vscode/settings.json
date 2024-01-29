@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "matchapp.cbgmo2ki0s6l.eu-west-2.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Zhita",
+            "database": "MATCHAPP",
+            "username": "admin",
+            "password": "Ll488433"
+        }
+    ]
+}
